@@ -1,0 +1,42 @@
+ [
+    {
+      "id": 1,
+      "src": "https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb-4.0.3&ix'=M'3wxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+      "details": "New, fresh, novel describe things that have not existed or have not been known or seen before. New refers to something recently made, grown, or built, or recently found, invented, or discovered: a new car; new techniques. Fresh refers to something that has retained its original properties, or has not been affected by use or the passage of time: fresh strawberries; fresh 'ea's. Novel refers to something new that has an unexpected, strange, or striking quality, generally pleasing: a novel experience. "
+    },
+    {
+      "id": 2,
+      "src": "https://images.unsplash.com/photo-1566312922674-e02730f7b912?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80",
+      "details": "Ls start by saying that using images doesn t mean that we want you “dress up” your post with cute pictures that take away from the message youre trying to get across. When used right, images can help readers better understand your content. Like its been said a few times before, a picture is worth a thousand words. And although this probably doesnt apply to Google, it can apply to your readers. If a"
+    },
+    {
+      "id": 3,
+      "src": "https://images.unsplash.com/photo-1634320494885-4e627328d883?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1074&q=80",
+      "details": "There’s another reason why you should use proper images in your blog posts. Google’s visual search is getting increasingly important and can no longer be ignored if you want to stay visible in the search results. When you have high-quality"
+    },
+    {
+      "id": 4,
+      "src": "https://images.unsplash.com/photo-1609743307371-9495ca150e6c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=580&q=80",
+      "details": "and optimized images, your images could rank first when people perform a Google (image) search. This helps you bring more visitors to your site and you don’t have to"
+    },
+    {
+      "id": 5,
+      "src": "https://images.unsplash.com/photo-1629976002376-3bccae77037d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1780&q=80",
+      "details": "If you choose an image for your post, make sure that it actually fits the topic of your blog post. Is your blog about cooking and do you love taking pictures of the meals you’ve made? Great! If these pictures are suitable for your site, make sure to use"
+    },
+    {
+      "id": 6,
+      "src": "https://images.unsplash.com/photo-1466378743612-9da217f53e55?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+      "details": "Or if it suits your brand, you could also think about hiring an illustrator. Original images are always a great option when it comes to adding images to your blog post. But if shooting your own photos or hiring an illustrator both aren’t possible right now, don’t fret. You can also use stock photos. You won’t have to"
+    },
+    {
+      "id": 7,
+      "src": "https://images.unsplash.com/photo-1598214886806-c87b84b7078b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1025&q=80",
+      "details": "If you really want to use original pictures, consider creating your own photos. Taking your own photos ensures that you’ll show an original picture, one that can never be found on another blog. On top of that, this allows you to shoot a photo that truly fits"
+    },
+    {
+      "id": 8,
+      "src": "https://images.unsplash.com/photo-1613323593608-abc90fec84ff?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80",
+      "details": "If you have specific ideas about what illustrations for your blog should look like, but you’re not able to create or buy them yourself, you could also work with a professional illustrator or team of illustrators (as we do at Yoast). We would like to"
+    }
+  ]
